@@ -1,6 +1,6 @@
 The docs: https://clojuredocs.org/clojure.core/comp
 
-(comp f g)
+`(comp f g)`
 
 means to create a new function that would first apply g, and then f.
 
