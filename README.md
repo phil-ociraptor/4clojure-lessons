@@ -1,6 +1,7 @@
 Hello,
 
-I'm trying to put together the most beautiful solutions to 4clojure problems.
+I'm trying to put together the most beautiful solutions to 
+[4clojure](http://www.4clojure.com) problems.
 
 My methodology has been to follow about 25 people who have finished all 156 
 4clojure problems. After I solve each one, I compare my solution to theirs.
